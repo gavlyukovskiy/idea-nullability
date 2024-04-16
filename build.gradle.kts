@@ -1,6 +1,5 @@
 plugins {
 	java
-	id("net.ltgt.errorprone") version "3.1.0"
 }
 
 group = "com.github.gavlyukovskiy"
